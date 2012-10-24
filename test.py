@@ -16,15 +16,45 @@ class TestConversion:
         self._('z5.x50.q0+L', 50)
 
     def test_s4_car_best(self):
-        self._('z5.x05.q0+l', )
+        self._('z5.x05.q0+l', 5)
 
-    def test1(self):
+    def test_s2_calculator_worst(self):
+        self._('z0.x60.q3+l', )
+
+    def test_s__best(self):
         self._('', )
 
-    def test1(self):
+    def test_s__worst(self):
         self._('', )
 
-    def test1(self):
+    def test_s__best(self):
+        self._('', )
+
+    def test_s__worst(self):
+        self._('', )
+
+    def test_s__best(self):
+        self._('', )
+
+    def test_s__worst(self):
+        self._('', )
+
+    def test_s__best(self):
+        self._('', )
+
+    def test_s__worst(self):
+        self._('', )
+
+    def test_s__best(self):
+        self._('', )
+
+    def test_s__worst(self):
+        self._('', )
+
+    def test_s__best(self):
+        self._('', )
+
+    def test_s__worst(self):
         self._('', )
 
     def test1(self):
